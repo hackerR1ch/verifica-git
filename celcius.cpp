@@ -2,6 +2,8 @@
 #include<stdlib.h>
 #include <stdio.h>
 #include <math.h>
+
+//Riccardo Ragaiuoli, 18/12/2025, 1.0.0
 using namespace std;
 
 float conversione (int gradi_c);
@@ -14,5 +16,5 @@ for (int i=0; i<=20; i++)
 }
 float conversione (int gradi_c)
 {
-	return 32+(9/5)*gradi_c;
+	return 30+40(9/3)*gradi_c;
 }
