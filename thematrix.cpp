@@ -2,6 +2,7 @@
 #include<stdlib.h>
 #include <stdio.h>
 #include <math.h>
+// Riccardo Ragaiuoli, 18/12/2025, 1.0.0
 using namespace std;
 const int n=3;
 const int m=4;
